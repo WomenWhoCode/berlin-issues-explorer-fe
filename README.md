@@ -16,7 +16,7 @@ There are a lot of opensource projects whose contributors apart from wanting to 
 Improve our technical and collaboration skills by developing an open-source web-application together during Women Who Code hack nights.
 With this, we want to provide learning playground for Hack Evening participants who are interested in chosen technology stack. We want to make this project yours as well. Don't be shy to take ownership of parts of it :)
 
-# Project Overview
+#
 
 ![project components](project_overview.png)
 
