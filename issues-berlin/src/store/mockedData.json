@@ -1,0 +1,27 @@
+{
+	"issues": [{
+			"title": "fix error x",
+			"labels": ["important", "urgent"],
+			"repository_title": "repository X",
+			"repository_labels": ["cool", "new"],
+                        "repository_url":"repo_url",
+			"language": "java"
+		},
+		{
+			"title": "fix error y",
+			"labels": ["important", "urgent"],
+			"repository_title": "repository X",
+			"repository_labels": ["cool", "new"],
+                        "repository_url":"repo_url",
+			"language": "java"
+		},
+		{
+			"title": "fix error z",
+			"labels": ["important", "urgent"],
+			"repository_title": "repository Z",
+			"repository_labels": [],
+                        "repository_url":"repo_url",
+			"language": "javascript"
+		}
+	]
+}
