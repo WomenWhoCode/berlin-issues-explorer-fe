@@ -37,3 +37,7 @@ local.properties
 *.ipr
 *.iws
 .idea/
+
+### Vagrant ###
+*.log
+
