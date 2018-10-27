@@ -1,18 +1,20 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './wwc-logo.png';
 import './App.css';
+import IssuesContainer from 'components/IssuesContainer/IssuesContainer';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
+        <header className="app-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="app-title">Berlin Issues Explorer</h1>
+          <p className="app-intro">
+            Discover issues for beginner friendly open source projects hosted on github.com
+          </p>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <IssuesContainer />
       </div>
     );
   }
