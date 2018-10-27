@@ -2,6 +2,8 @@
 
 Frontend part for **issues-explorer** project.
 
+Check the current state of the project on [netlify](https://berlin-issues-explorer-fe.netlify.com/).
+
 
 ## issues-explorer
 
