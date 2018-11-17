@@ -25,7 +25,7 @@ With this, we want to provide learning playground for Hack Evening participants 
 
 ## Contributing
 
-If you want to know how to install and run the app, check the [README](issues-berlin/README).
+If you want to know how to install and run the app, check the [README](issues-berlin/README.md).
 Please review our [contributing guidelines](CONTRIBUTING.md) and enjoy collaboration!
 
 
