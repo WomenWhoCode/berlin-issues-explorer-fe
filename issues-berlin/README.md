@@ -56,7 +56,7 @@ If your port 3000 is already blocked by another app, this will not work because 
 
 ## Contributing
 
-Please review our [contributing guidelines](CONTRIBUTING.md) and enjoy collaboration!
+Please review our [contributing guidelines](https://github.com/WomenWhoCode/berlin-issues-explorer-fe/blob/master/CONTRIBUTING.md) and enjoy collaboration!
 For starters have a look at the open [issues](https://github.com/WomenWhoCode/berlin-issues-explorer-fe/issues).
 
 
